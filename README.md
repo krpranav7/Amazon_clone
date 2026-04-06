@@ -36,6 +36,7 @@ Amazon_clone/
 │   │── box8_image.jpg
 │   │── screenshot.png
 │   │── screenshot2.png
+```
 
 ## 📷 Preview
 <p align="center">
