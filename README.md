@@ -1,4 +1,5 @@
-This is a simple **Amazon homepage clone** built using **HTML and CSS**.
+A simple Amazon homepage clone built using **HTML and CSS**. The project focuses on recreating Amazon's homepage layout while practicing page structure, styling, Flexbox, and responsive design concepts. Smooth scrolling is implemented using Locomotive Scroll.
+
 
 ## 🚀 Live Demo
 [Click here to view the project](https://krpranav7.github.io/Amazon_clone/)
@@ -10,17 +11,20 @@ This is a simple **Amazon homepage clone** built using **HTML and CSS**.
 - Product category boxes
 - Footer section
 - Clean layout using HTML and CSS
+- Smooth scrolling with Locomotive Scroll
 
 ## 🛠️ Tech Stack
 - HTML5
 - CSS3
 - Font Awesome
+- Locomotive Scroll
 
 ## 📂 Project Structure
 ```bash
 Amazon_clone/
 │── index.html
 │── style.css
+│── script.js
 │── README.md
 │
 ├── assets/
@@ -46,16 +50,21 @@ Amazon_clone/
 
 ## 📖 What I Learned
 While building this project, I practiced:
-- HTML structure
-- CSS styling
-- Flexbox basics
-- Background images
-- Layout building
+- Structuring web pages with HTML
+- Styling layouts using CSS
+- Working with Flexbox
+- Using background images effectively
+- Creating reusable UI sections
+- Integrating third-party libraries
+- Deploying projects using GitHub Pages
+- Using Git and GitHub for version control
 
 ## 📌 Future Improvements
-- Make the website responsive for mobile
+- Make the website fully responsive
+- Add interactive search functionality
 - Add hover effects and animations
-- Improve navbar and footer design
+- Improve accessibility
+- Recreate additional Amazon UI sections
 
 ## 👨‍💻 Author
 Pranav Kumar
