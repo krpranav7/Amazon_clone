@@ -1,7 +1,8 @@
 *{
     margin: 0;
-    font-family: Arial;
-    border: border-box; /*agr hum chahte hain ki jitni height/width set h usi me border area count ho*/
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
 }
 .navbar{
     height: 60px;
